@@ -19,6 +19,4 @@ Inicio
   escreval("diagonal:",diagonal:7:4)
 
 
-
-
 Fimalgoritmo

@@ -1,5 +1,7 @@
 Algoritmo "Armazenar_negativos"
-
+// O programa vai ler um número inteiro N (Máximo = 10) e depois N números
+// inteiros e armazena-los em um vetor.Em seguida, mostrará na tela todos
+// todos os número negativos lido.
 Var
 numero, i  : inteiro
 num: vetor [0..9] de inteiro

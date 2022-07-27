@@ -1,5 +1,6 @@
 Algoritmo "tabuada"
-
+// O programa mostra a tabuada de um número N, sendo multiplicado o número
+// de vezes soliciado.
 
 var
  N , i, x, y : inteiro

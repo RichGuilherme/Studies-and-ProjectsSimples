@@ -1,4 +1,6 @@
 Algoritmo "Dia_da_semana"
+// Programa simples de dias da semana, com números a cima de 7 sendo
+// invalidos, abaixo disso mostrará algum dia da semana.
 Var
 
 x : inteiro

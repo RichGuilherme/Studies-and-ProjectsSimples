@@ -1,5 +1,6 @@
 Algoritmo "maior_distância"
-
+// No arremesso de dardo, o atleta tem três chances para lançar o dardo à
+// maior distância que conseguir.
 Var
 
 a, b, c, maior : real

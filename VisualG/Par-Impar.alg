@@ -1,4 +1,8 @@
 Algoritmo "Par_impar"
+// Com o valor inteiro N.Esse sendo o número de inteiros que serão lidos.
+// Para cada valor lido, será mostrado uma mensagem dizendo se é Par ou
+// Impar, e também se é POSITIVO ou NEGATIVO.Caso o número seja 0 ele será
+// "NULO".
 
 Var
  n, x, i : inteiro

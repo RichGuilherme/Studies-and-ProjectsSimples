@@ -1,5 +1,7 @@
 Algoritmo "altura"
-
+// O programa ler nome, idade e altura de N pessoas.Depois, mostra na
+// tela a altura média das pessoas, e mostra também a porcentagem de
+// pessoas com menos de 16 anos, bem como o nome dessa pessoa.
 Var
 
  i,n : inteiro

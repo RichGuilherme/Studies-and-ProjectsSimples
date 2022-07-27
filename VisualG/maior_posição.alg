@@ -1,5 +1,6 @@
 Algoritmo "maior_posição"
-
+// Programa que mostra a maior posição de N números armazenados em um vetor.
+// A posição inicial do primeiro número começa em 0.
 Var
 i, n, posicao : inteiro
 comparador : real

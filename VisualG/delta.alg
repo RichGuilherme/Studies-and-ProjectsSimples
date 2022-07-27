@@ -1,5 +1,5 @@
-Algoritmo "semnome"
-
+Algoritmo "Delta"
+ // programa teste para encontrar o delta.
 Var
   a, b, c : real
   delta : real

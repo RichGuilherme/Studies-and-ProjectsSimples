@@ -1,6 +1,6 @@
 Algoritmo "pagamento"
- //  Programa que mostra o salário que um funcionário deve recebe no final do
- //  mês de acordo com seu valor por hora e horas trabalhada.
+ // Programa que mostra o salário que um funcionário deve recebe no final do
+ // mês de acordo com seu valor por hora e horas trabalhada.
 
 Var
   nome : caractere

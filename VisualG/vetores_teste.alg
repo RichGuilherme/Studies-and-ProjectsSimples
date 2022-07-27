@@ -1,8 +1,5 @@
 Algoritmo "vetores_teste"
-
-//sempre lembra de colocar o 0 na variante do vetor.
-
-
+ // Teste para aprendizagem do uso de vetores.
 Var
  n, i : inteiro
  vet : vetor [0..9] de real

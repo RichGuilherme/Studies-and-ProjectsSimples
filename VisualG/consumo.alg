@@ -1,5 +1,5 @@
 Algoritmo "consumo"
- // Mostra o consumo médio de um carro, por meio da distância pecorrida
+ // Programa mostra o consumo médio de um carro, por meio da distância pecorrida
  // e combustível gasto no percurso.
 Var
  distancia : inteiro

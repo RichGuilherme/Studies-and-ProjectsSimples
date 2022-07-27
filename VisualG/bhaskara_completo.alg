@@ -1,6 +1,6 @@
 Algoritmo "bhaskara_Completo"
  // Com base nos coeficientes A, B e C de uma equação de segundo grau,
- // mostra o x e y, usando baskara. Caso o Delta for menor que 0 a equação,
+ // mostra o x e y, usando baskara. Caso o Delta for menor que 0 a equação
  // não vai possuir raiz.
 Var
  a, b, c, delta, x1, x2 : real

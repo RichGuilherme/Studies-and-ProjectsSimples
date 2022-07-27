@@ -1,6 +1,7 @@
 Algoritmo "divisão"
-
-Var
+// Com um valor N. Sendo o número de divisões que serão feitas. Escreva
+// dois números que serão dividos, sendo o primeiro pelo segundo.Caso
+// não for possível uma mensagem será mostrada "Divisão impossivel".
  n, i  : inteiro
  soma, denominador, numerador : real
 

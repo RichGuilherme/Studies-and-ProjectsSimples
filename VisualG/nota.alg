@@ -25,8 +25,5 @@ Inicio
      escreval("REPROVADO")
   fimse
   
-  
-
-
    
 Fimalgoritmo

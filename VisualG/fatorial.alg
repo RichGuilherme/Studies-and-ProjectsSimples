@@ -1,5 +1,6 @@
 Algoritmo "fatorial"
-
+ // Com um número natural N (Valor máximo até: 15), o programa mostrará,
+ // o calculo do fatorial de N.
 Var
 N, i, fat : inteiro
 

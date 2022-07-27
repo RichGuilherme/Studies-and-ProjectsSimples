@@ -1,5 +1,7 @@
 Algoritmo "números_pares"
-
+// No programa N números inteiros é armazenados em um vetor. Em seguida,
+// mostra na tela todos os números pares, e também a quantidade
+// de números pares.
 Var
  n, i, divisiveis  : inteiro
  pares: vetor[0..9] de inteiro

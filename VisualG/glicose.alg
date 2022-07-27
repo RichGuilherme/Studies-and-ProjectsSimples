@@ -1,6 +1,10 @@
 Algoritmo "glicose"
-//  Mostra se o nível de glicose esta alto de um paciênte, de acordo com uma
+// Mostra se o nível de glicose esta alto de um paciênte, de acordo com uma
 // tabela classificadora.
+//   Tabela de glicose
+// - Normal: ate 100 mg/dl
+// - Elevado: maior que 100 ate 140 mg/dl
+// - Diabete: maior que 140 mg/dl
 Var
 glicose : real
 Inicio

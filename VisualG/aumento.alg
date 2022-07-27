@@ -1,5 +1,16 @@
 Algoritmo "aumento"
-
+// Uma empresa vai conceder um aumento percentual de salário aos seus
+// funcionários dependendo de quanto cada pessoa ganha, conforme a tabela
+//  Salário atual =  Aumento
+// * Até R$ 1000.00 = 20%
+// * Acima de R$ 1000.00
+// até R$ 3000.00 = 15%
+// * Acima de R$ 3000.00
+// até R$ 8000.00 = 10%
+// * Acima de R$ 8000.00 =5%
+//
+// De acordo com a tabela o programa irá mostra qual o novo salário da
+// pessoa e porcentagem aumentada.
 Var
  salario, novosalario, aumento : real
  porcentagem : inteiro

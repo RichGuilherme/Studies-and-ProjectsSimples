@@ -1,5 +1,6 @@
 Algoritmo "salário
-"
+// Programa que depois de digitados os dados, serão mostrados na tela,
+// logo em seguida
 
 Var
   idade : inteiro

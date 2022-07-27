@@ -1,10 +1,7 @@
 Algoritmo "circulo"
- // Área de um circulo
+ // Área de um circulo com base no raio.
 Var
 raio, area :real
-  
-   
-
 Inicio
   escreva("Digite o valor do raio do circulo:")
   leia(raio)

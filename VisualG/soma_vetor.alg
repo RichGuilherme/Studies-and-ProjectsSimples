@@ -1,4 +1,7 @@
 Algoritmo "soma-vetor"
+// Com N números reais armazenedos em um vetor.Em seguida irá:
+// - Imprimir todos os elementos do vetor
+// - Mostrar na tela a soma e a média dos elementos do vetor
 Var
 
  i, n : inteiro

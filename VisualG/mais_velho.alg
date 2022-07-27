@@ -1,5 +1,7 @@
 Algoritmo "Mais_velho"
-
+// Programa com um conjunto de nomes de pessoas e suas respectivas
+// idades.Os nomes e suas repectivas idades estão armazenados em vetores.
+// Depois, mostrará na tela o nome da pessoa mais velho.
 Var
 n, i,mvelho : inteiro
 nvelho : caractere

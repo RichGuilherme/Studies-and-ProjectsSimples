@@ -3,10 +3,7 @@ Algoritmo "coordenadas"
  // em qual quadrante o ponto pertence. Se os dois ponto forem igual a 0
  // o ponto vai estar na origem.
 Var
-
-  x, y : real
-
-  
+x, y : real
 
 Inicio
   escreva("Valor de x: ")

@@ -1,5 +1,8 @@
 Algoritmo "quadrante"
-
+// No programa escreva as coordenadas(X e Y) de um plano cartesiano,
+// logo em seguida com o valor das duas coordenadas será mostrado a que
+// quadrante eles pertence (Q1, Q2, Q3 ou Q4).O programa será finalizado
+// quando um dos pontos serem NULO.
 var
  x, y : real
 

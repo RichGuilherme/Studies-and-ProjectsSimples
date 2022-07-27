@@ -1,5 +1,5 @@
 Algoritmo "multiplos_simplificado"
-
+// Programa simples que mostra se dois números são ou não multiplos.
 Var
 
    x, y : inteiro

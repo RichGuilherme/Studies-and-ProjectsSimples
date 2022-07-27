@@ -1,5 +1,6 @@
 Algoritmo "soma_impares"
-
+// Com o valor de dois número X e y(em qualquer ordem).Mostra a soma
+// dos número impares entre eles.
 Var
 
    X, Y, troca, i, soma : inteiro

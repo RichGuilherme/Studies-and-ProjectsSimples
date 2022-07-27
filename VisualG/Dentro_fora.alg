@@ -1,5 +1,7 @@
 Algoritmo "Dentro-fora"
-
+// O programa irá ler um número N de número inteiros.Esse será a
+// quantidade de número X que serão lidos.Logo em seguida mostra qual
+// desses valores X estão dentro ou fora do intervalo[10,20].
 Var
  n, x, dentro, fora, i : inteiro
 

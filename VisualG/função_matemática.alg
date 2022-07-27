@@ -1,5 +1,5 @@
 Algoritmo "Funções_matemática "
-
+// teste de funções da matemática no visualg
 Var
   x, z, y, a, b, c, d : real
 
