@@ -3,8 +3,8 @@ Algoritmo "Mais_velho"
 // idades.Os nomes e suas repectivas idades estão armazenados em vetores.
 // Depois, mostrará na tela o nome da pessoa mais velho.
 Var
-n, i,mvelho : inteiro
-nvelho : caractere
+n, i, maisVelho : inteiro
+nomeVelho : caractere
 nome: vetor[0..9] de caractere
 idade: vetor[0..9] de inteiro
 
@@ -20,13 +20,14 @@ Inicio
       leia(idade[i])
  fimpara
  
- mvelho <- 0
+ maisVelho <- 0
+ nomeVelho <- 0
  para i de 1 ate n faca
-      se idade[i] > mvelho entao
-          mvelho <- idade[i]
-          nvelho <- nome[i]
+      se idade[i] > maisVelho entao
+          maisVelho <- idade[i]
+          nomeVelho <- nome[i]
       fimse
  fimpara
  
- escreva("PESSOA MAIS VELHA: ", nvelho)
+ escreva("PESSOA MAIS VELHA: ", nomeVelho)
 Fimalgoritmo

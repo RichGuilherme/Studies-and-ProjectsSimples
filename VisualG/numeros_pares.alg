@@ -4,7 +4,7 @@ Algoritmo "números_pares"
 // de números pares.
 Var
  n, i, divisiveis  : inteiro
- pares: vetor[0..9] de inteiro
+ pares: vetor[0..99] de inteiro
 
 
 Inicio
@@ -16,11 +16,12 @@ Inicio
      leia(pares[i])
   fimpara
   
+  divisiveis <- 0
   escreval
   escreval("NUMEROS PARES: ")
   para i de 0 ate n-1 faca
      se pares[i] % 2 = 0 entao
-        escreva(pares[i])
+        escreva(pares[i], " ")
         divisiveis <- 1 + divisiveis
      fimse
   fimpara

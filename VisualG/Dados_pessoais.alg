@@ -23,6 +23,7 @@ Inicio
 
   menor <- altura[1]
   maior <- 0
+  
   para i de 2 ate n faca
       se altura[i] < menor entao
           menor <- altura[i]
@@ -34,9 +35,13 @@ Inicio
           maior <- altura[i]
       fimse
   fimpara
-
+  
+  escreval("Menor altura = ", menor:1:2)
+  escreval("Maior altura = ", maior:1:2)
+  
   mulheres <- 0
   homens <- 0
+  
   para i de 1 ate n faca
       se sexo[i] = "F" entao
           media <- altura[i] + media
@@ -48,8 +53,6 @@ Inicio
 
   media <- media / mulheres
 
-  escreval("Menor altura = ", menor:1:2)
-  escreval("Maior altura = ", maior:1:2)
   escreval("Média da altura das mulheres = ", media:1:2)
   escreva("Número de homens = ", homens)
 Fimalgoritmo

@@ -17,6 +17,7 @@ Inicio
  
  posicao <- 0
  comparador <- 0
+ 
  para i de 0 ate n-1 faca
      se numero[i] > comparador entao
         comparador <- numero[i]
