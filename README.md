@@ -5,6 +5,7 @@
 ##### :rocket: Algoritmos focados no aprendizado e desenvolvimento, usando conceitos de Lógica de Programação e desenvolvendo o raciocínio lógico.
 
 ##### :rocket: Status: em desenvolvimento 
+=========================================================================================
 
 ## :information_source: sobre o curso
 
