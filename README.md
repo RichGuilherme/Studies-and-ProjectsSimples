@@ -5,7 +5,7 @@
 ##### :rocket: Algoritmos focados no aprendizado e desenvolvimento, usando conceitos de Lógica de Programação e desenvolvendo o raciocínio lógico.
 
 ##### :rocket: Status: em desenvolvimento 
-=========================================================================================
+========================================================================================
 
 ## :information_source: sobre o curso
 
@@ -35,11 +35,6 @@ Curso iniciatório para área de desenvolvimento de software da **Udemy**, sendo
 
 Na parte de explicação da lógica foi usado uma variação da linguagem "Portugol" , sendo a ferramenta de IDE o **VisualG**. Além disso, implementando todo os exercícios com outras principais linguagens de programação fortes no mercado:
 
-* **C**
-* **C++**
-* **Python**
-* **C#**
-* **Java** 
 
 ## :rocket: Contato
 
