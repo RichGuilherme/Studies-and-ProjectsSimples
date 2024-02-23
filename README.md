@@ -1,6 +1,6 @@
 
 
-# Meus estudos e projetos simples:books:
+# Meus estudos e projetos simples :books:
 
 ##### :rocket: Algoritmos focados no aprendizado e desenvolvimento, usando conceitos de Lógica de Programação e desenvolvendo o raciocínio lógico.
 
