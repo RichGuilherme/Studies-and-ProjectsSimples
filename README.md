@@ -1,42 +1,27 @@
 
+<div>
+  <h1 style={border: "none"}>Meus estudos e projetos simples :books:</h1>
+  <h5>:rocket: Algoritmos focados no aprendizado e desenvolvimento, usando de Lógica de Programação e raciocínio lógico, na resolução dos problemas.</h5> 
+</div>
 
-# Meus estudos e projetos simples :books:
+## Sobre o repositório
 
-##### :rocket: Algoritmos focados no aprendizado e desenvolvimento, usando conceitos de Lógica de Programação e desenvolvendo o raciocínio lógico.
+O objetivo deste repositório é guardar alguns algoritmos e estudos, compartilhados ao longo do tempo, seja através da faculdade, cursos ou estudos pessoais. Espero que seja útil algum dia para alguém que está começando na área! :book:
 
-========================================================================================
+### Contribuição
 
-## :information_source: sobre o curso
+Se você gostou do projeto, deixe uma estrela para acompanhar as atualizações! 😊
 
-Curso iniciatório para área de desenvolvimento de software da **Udemy**, sendo um curso completo e didático, tendo diversos exercícios para uma formação sólida de todos os recursos de Lógica de Programação para construir e testa os algoritmos :book:  :
+Caso encontre algum erro, por favor, crie um pull request e me informe o motivo do erro, para que eu possa corrigir.
 
-* **Variáveis** 
+### Como contribuir
 
-* **Entrada e saída de dados**
-
-* **Comando de atribuição (processamento)**
-
-* **Estrutura condicional**
-
-* **Estruturas repetitivas** 
-
-* **Vetores**
-
-* **Matrizes**
-
-* **Teste de mesa**
-
-* **Depuração de programas**
-
+* **Estrela**: Se achar o projeto útil, não esqueça de dar uma estrela!
+* **Feedback**: Sugestões e comentários são sempre bem-vindos.
+* **Pull Requests**: Sinta-se à vontade para contribuir com melhorias!
   
 
-## :hammer_and_wrench: Tech Stack
-
-Na parte de explicação da lógica foi usado uma variação da linguagem "Portugol" , sendo a ferramenta de IDE o **VisualG**. Além disso, implementando todo os exercícios com outras principais linguagens de programação fortes no mercado:
-
-
-## :rocket: Contato
-
+## Contato
 [:link: Linkedin: Richard Guilherme](https://www.linkedin.com/in/richard-guilherme-396886228)
 
 [:e-mail: E-mail](richard.guilhermeAS@hotmail.com )
